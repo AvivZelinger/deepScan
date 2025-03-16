@@ -1,0 +1,3 @@
+ 2
+dddd 4 int
+fff 0 char dddd
